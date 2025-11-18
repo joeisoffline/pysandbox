@@ -1,4 +1,4 @@
-name = input("Please tpye in a name")
+name = input("Please type in a name")
 year = input("Please type in a year")
 
 print(name + " is valiant knight, born in the year " + year + ". One morning "
